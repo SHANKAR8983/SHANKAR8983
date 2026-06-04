@@ -38,9 +38,6 @@ Tools       →  Git, VS Code, Blender, Arduino
 - 🚗 **[Multi-Model Car Price Estimation System](https://github.com/SHANKAR8983/cardekho-price-predictor)**
   — 7 ML regression models compared on CarDekho dataset with real-time Streamlit dashboard | Python, Streamlit, XGBoost, Scikit-learn
 
-- 🦠 **COVID-19 Symptom Predictor**
-  — 7 ML classifiers with ROC curves, confusion matrix & multi-model comparison dashboard | Python, Streamlit, Scikit-learn
-
 - ♟️ **ChessAI**
   — Chess engine using Minimax + Alpha-Beta pruning | Python, Pygame, Tkinter
 
