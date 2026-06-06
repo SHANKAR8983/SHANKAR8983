@@ -15,13 +15,6 @@ Contributing to [FireForm](https://github.com/fireform-core/FireForm), an emerge
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Winner** — Hackster.io Arduino UNO R4 Hackathon *(PuneAir — selected from 1,212 submissions)*
-- 🎖️ **Consolation Prize** — Blind Coding Track, Innovation Fest 2024 *(VU × Binghamton University)*
-
----
-
 ## 🛠️ Tech Stack
 
 ```
