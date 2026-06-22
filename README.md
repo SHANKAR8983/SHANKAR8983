@@ -31,9 +31,6 @@ Tools       →  Git, VS Code, Blender, Arduino
 - 🚗 **[Multi-Model Car Price Estimation System](https://github.com/SHANKAR8983/cardekho-price-predictor)**
   — 7 ML regression models compared on CarDekho dataset with real-time Streamlit dashboard | Python, Streamlit, XGBoost, Scikit-learn
 
-- ♟️ **ChessAI**
-  — Chess engine using Minimax + Alpha-Beta pruning | Python, Pygame, Tkinter
-
 - 🌫️ **PuneAir** 🏆
   — Edge AI Air Quality Monitor, Won Hackster.io Arduino UNO R4 Hackathon (1,212 submissions) | Arduino, Edge AI, IoT
 
