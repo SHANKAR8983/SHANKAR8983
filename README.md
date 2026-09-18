@@ -34,8 +34,11 @@ Tools       →  Git, VS Code, Blender, Arduino
 - 🌫️ **PuneAir** 🏆
   — Edge AI Air Quality Monitor, Won Hackster.io Arduino UNO R4 Hackathon (1,212 submissions) | Arduino, Edge AI, IoT
 
-- 🛡️ **ShopSafe**
-  — Intentionally vulnerable e-commerce site for ethical hacking demonstrations | HTML, PHP, MySQL
+- 🧳 **[Budget Travel Planner Chatbot](https://github.com/SHANKAR8983/budget-travel-planner-chatbot)**
+  — Agentic AI chatbot that plans budget-friendly trips, autonomously calling live weather, places-search, and budget tools | Python, LangChain, Gemini, Streamlit
+
+- 🧾 **[Expense Voucher Management System](https://github.com/SHANKAR8983/expense-voucher-management-system)**
+  — Full-stack app digitizing expense voucher creation, approval & reimbursement tracking with role-based workflows (Employee/Director/Accounts) | React, Node.js, Express, JWT
 
 ---
 
